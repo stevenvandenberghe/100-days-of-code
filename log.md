@@ -8,3 +8,6 @@
 built-ins. However, this seems difficult with the French texts I'm dealing with. 
 
 **Link to work:** https://github.com/stevenvandenberghe/language_of_taste/blob/master/create_corpus.py
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/951830104463855616
+
