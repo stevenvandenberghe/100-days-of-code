@@ -11,3 +11,15 @@ built-ins. However, this seems difficult with the French texts I'm dealing with.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/951830104463855616
 
+### Day 1: Saturday January 13, 2018
+
+**Today's Progress:** Started expense tracking app in react native. Got boilerplate code running and displayed something on my phone.
+Looked at Weather app example as well.
+
+**Thoughts:** My initial goal is to build a simple expense tracker for my phone. I also have a more ambitious little project in mind:
+health track.
+
+**Link to work:** https://github.com/stevenvandenberghe/expense_tracker
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/952235643769360386
+
