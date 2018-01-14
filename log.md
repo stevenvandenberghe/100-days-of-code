@@ -23,3 +23,10 @@ health track.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/952235643769360386
 
+### Day 2: Sunday January 14, 2018
+
+**Today's Progress:** Mainly messing around with Python and NLTK. Figured out how to categorize texts in the corpus. Will implement this
+to compare 6070 and 8090.
+
+**Thoughts:** These categories could come in handy to do other comparisons as well (expo).
+
