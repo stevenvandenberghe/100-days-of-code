@@ -30,3 +30,17 @@ to compare 6070 and 8090.
 
 **Thoughts:** These categories could come in handy to do other comparisons as well (expo).
 
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/952632201165918213
+
+### Day 3: Monday January 15, 2018
+
+**Today's Progress:** Small Bootstrap refresher by working on the Portfolio project from FCC
+
+**Thoughts:** I may want to give Harp.js a shot (generator)
+
+**Link to work:** https://github.com/stevenvandenberghe/Freecodecamp_projects/tree/master/portfolio
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/953055917599313920
+
+
+
