@@ -42,5 +42,16 @@ to compare 6070 and 8090.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/953055917599313920
 
+### Day 4: Tuesday January 15, 2018
+
+**Today's Progress:** Continued Bootstrap project. Added gallery.
+
+**Thoughts:** Lots of Bootstrap documentation for previous version.
+
+**Link to work:** https://github.com/stevenvandenberghe/Freecodecamp_projects/tree/master/portfolio
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/953267216706887683
+
+
 
 
