@@ -52,6 +52,12 @@ to compare 6070 and 8090.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/953267216706887683
 
+### Day 5: Wednesday January 16, 2018
 
+**Today's Progress:** Worked on some REST queries (OpenAIRE) and on a small Flask app.
+
+**Thoughts:** Set up the OpenAIRE virtual research environment for the datathon.
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/953738117860773888
 
 
