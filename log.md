@@ -60,4 +60,12 @@ to compare 6070 and 8090.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/953738117860773888
 
+### Day 6: Thursday January 17, 2018
+
+**Today's Progress:** Continued work on the Flask app and also did some work with NLTK.
+
+**Thoughts:** I want to link work on the Flask app with NLTK later.
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/954126396674269185
+
 
