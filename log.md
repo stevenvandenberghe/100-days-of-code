@@ -69,3 +69,10 @@ to compare 6070 and 8090.
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/954126396674269185
 
 
+### Day 7: Thursday January 18, 2018
+
+**Today's Progress:** Back to work on the OpenAIRE project.
+
+**Thoughts:** It's running, but I better get some error handling in there.
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/954382227718238208
