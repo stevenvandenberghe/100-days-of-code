@@ -68,11 +68,20 @@ to compare 6070 and 8090.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/954126396674269185
 
-
-### Day 7: Thursday January 18, 2018
+### Day 7: Friday January 18, 2018
 
 **Today's Progress:** Back to work on the OpenAIRE project.
 
 **Thoughts:** It's running, but I better get some error handling in there.
 
 **Link to tweet:** https://twitter.com/Steven_VdB80/status/954382227718238208
+
+### Day 8: Saturday January 19, 2018
+
+**Today's Progress:** Went to the office where the OpenAIRE app is getting a ton of data. It must have crashed after approx.
+10000 runs with a ConnectionError. Added some exception handling and turned it back on.
+
+**Thoughts:** next time, if it looks like it needs to be able to deal with errors, just implement it straight away. I'm not 
+confident my exception handler will hold up.
+
+**Link to tweet:** https://twitter.com/Steven_VdB80/status/954775123977998338
